@@ -28,9 +28,9 @@ import './Equipment/Equipment.scss';
 import './Skills/Skills.scss';
 
 // Settings
-const MULTIPLIER = 1;
-const EXP_MULTIPLIER = 1;
-const GP_MULTIPLIER = 1;
+const MULTIPLIER = 2;
+const EXP_MULTIPLIER = 2;
+const GP_MULTIPLIER = 2;
 const FIRST_MONSTER = monsters.chicken;
 
 class IdleOSRS extends Component {
